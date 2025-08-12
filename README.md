@@ -39,7 +39,8 @@ Body: I live in Unit 204 and the tenants in Unit 304 have been making loud noise
 }
 ```
 
-AI-Generated Response
+### AI-Generated Response
+```
 Dear [Tenant Name],
 
 Thank you for bringing this matter to our attention. We understand how disruptive excessive noise can be to your comfort and well-being. We will address this matter with the occupants of Unit 304 immediately and remind them of the community quiet hours.
@@ -51,7 +52,7 @@ We appreciate your patience and cooperation.
 Sincerely,  
 [Property Manager Name]  
 Leasing Office
-
+```
 
 
 
