@@ -25,13 +25,13 @@ Notification (Slack/Email/Webhook)
 
 
 
-## 🏢 Real Estate Ticket Example
+## Real Estate Ticket Example
 
-### 📩 Incoming Ticket
+### Incoming Ticket
 Subject: Noise Complaint from Upstairs Unit
 Body: I live in Unit 204 and the tenants in Unit 304 have been making loud noises past midnight almost every day. I’ve spoken to them once but the problem continues. Please take action soon as it is affecting my sleep and work.
 
-### 🧠 AI Classification
+### AI Classification
 ```json
 {
   "urgency": "High",
@@ -51,5 +51,7 @@ We appreciate your patience and cooperation.
 Sincerely,  
 [Property Manager Name]  
 Leasing Office
+
+```
 
 
